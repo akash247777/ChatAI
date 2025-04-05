@@ -22,7 +22,11 @@ A powerful AI chat application built with **Streamlit**, **LangChain**, and **Ol
 ---
 
 ### 🌈 Demo
-![AI Chat & PDF Demo](https://i.imgur.com/your-demo-gif-here.gif)  
+![AI Chat & PDF Demo](
+
+https://github.com/user-attachments/assets/61ff50fd-9483-4740-a30e-c05531909125
+
+)  
 *(Replace with your demo GIF or screenshot)*  
 
 ---
